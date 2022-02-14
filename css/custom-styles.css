@@ -45,4 +45,5 @@ h6 {
 .bt-card-header,
 .card-header {
   border-bottom: 2px solid !important;
+  border-color: rgba(0, 0, 0, 0.5);
 }
