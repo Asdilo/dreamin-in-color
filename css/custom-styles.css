@@ -24,7 +24,7 @@ h6 {
 }
 
 .card-content {
-  border-left: 20px solid;
+  border-left: 10px solid;
   border-image: repeating-linear-gradient(
       180deg,
       #bc0000 0%,
