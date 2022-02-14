@@ -22,3 +22,19 @@ h6 {
 .section-wrapper {
   background-color: #000000 !important;
 }
+
+.card-content {
+  border-left: 20px solid;
+  border-image: repeating-linear-gradient(
+      180deg,
+      #bc0000 0%,
+      #bc0000 25%,
+      #000000 25%,
+      #000000 50%,
+      #008542 50%,
+      #008542 75%,
+      #ffcd00 75%,
+      #ffcd00 100%
+    )
+    1;
+}
