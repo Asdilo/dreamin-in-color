@@ -24,7 +24,7 @@ h6 {
 }
 
 .card-content,
-bt-card {
+.bt-card {
   border-radius: 0 !important;
   border-left: 10px solid !important;
   border-image: repeating-linear-gradient(
@@ -41,9 +41,8 @@ bt-card {
     1 !important;
 }
 
-.bt-card {
-}
-
-.card-wrapper.card-header {
-  border-bottom: none !important;
+.card-wrapper .card-header,
+.bt-card-header,
+.card-header {
+  border-bottom: 2px solid !important;
 }
