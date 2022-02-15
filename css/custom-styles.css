@@ -18,10 +18,14 @@ h6 {
   font-weight: 600 !important;
 }
 
-/* .event-info-wrapper,
+.event-info-wrapper,
 .section-wrapper {
   background-color: #000000 !important;
-} */
+}
+
+.session-item-container {
+  background-color: #ffffff !important;
+}
 
 .card-content,
 .bt-card {
